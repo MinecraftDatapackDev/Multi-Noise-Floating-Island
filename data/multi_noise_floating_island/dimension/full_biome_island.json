@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:overworld",
+	"generator": {
+		"biome_source": {
+			"large_biomes": false,
+			"type": "minecraft:multi_noise",
+			"preset":"minecraft:overworld"
+		},
+		"settings": "multi_noise_floating_island:noise_setting_full_biome_island",
+		"type": "minecraft:noise"
+	}
+}
